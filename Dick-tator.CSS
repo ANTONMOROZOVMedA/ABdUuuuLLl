@@ -1,0 +1,94 @@
+.fon {
+  background: rgb(197, 178, 154);
+  display: flex;
+  flex-direction: column;
+}
+.r {
+  width: 100%;
+  height: 20px;
+  background: rgb(154, 123, 81);
+  border: none;
+}
+.r1 {
+  width: 100%;
+  height: 10px;
+  background: rgb(154, 123, 81);
+  border: none;
+}
+.square {
+  width: 200px;
+  height: 150px;
+}
+
+.conteiner {
+  display: flex;
+  justify-content: center;
+}
+.q {
+  margin: 160px 30px 140px 0px;
+  background: brown;
+  color: black;
+  text-align: center;
+  height: 75px;
+  border-radius: 30%;
+}
+.qq {
+  margin: 160px 0px 140px 30px;
+  background: brown;
+  height: 75px;
+  text-align: center;
+  border-radius: 30%;
+}
+header {
+  position: fixed;
+  text-align: center;
+  width: 100%;
+  background-color: rgb(112, 91, 64);
+  height: 80px;
+}
+.e {
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+}
+
+.w {
+  height: 80px;
+}
+.ww {
+  height: 80px;
+}
+.t {
+  text-align: center;
+  width: 100%;
+  margin-top: 100px;
+}
+.imy {
+  text-align: center;
+  width: 100%;
+  font-weight: 600;
+}
+.chip {
+  text-align: center;
+  margin-top: 150px;
+}
+table {
+  font-family: sans-serif;
+  text-align: left;
+  border-collapse: separate;
+  border-spacing: 7px;
+  color: rgb(237, 226, 226);
+  border: 16px solid rgb(199, 32, 32);
+  border-radius: 20px;
+}
+th {
+  font-size: 18px;
+  padding: 10px;
+}
+td {
+  background: rgb(147, 41, 41);
+}
+.ugar {
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
